@@ -4,7 +4,7 @@ This repository is being used to share repository configurations in `.github/set
 
 The below can be used to create a `settings.yml` file that extends the one in this repository:
 
-```
+```yml
 # https://github.com/brianespinosa/.github
 _extends: .github
 

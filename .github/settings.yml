@@ -2,7 +2,7 @@ repository:
   # See https://github.com/repository-settings/app/blob/master/docs/configuration.md for all available settings.
 
   # Should be overridden at the repository level if something should be public.
-  private: false
+  private: true
 
   # Github UI Features
   has_issues: false

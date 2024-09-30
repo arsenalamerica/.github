@@ -1,6 +1,6 @@
 repository:
   # A short description of the repository that will show up on GitHub
-  description: Special settings repo
+  description: test
 
 # The following attributes are applied to any repo within the org
 # So if a repo is not listed above is created or edited
